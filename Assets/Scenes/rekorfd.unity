@@ -193,7 +193,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &22923035
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -272,7 +272,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &107319814
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -351,7 +351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &134322721
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -556,7 +556,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &698949437
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -635,7 +635,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &815841026
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -720,8 +720,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 998987762}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 295, y: 2, z: 0}
-  m_LocalScale: {x: 1.6127089, y: 1.0229149, z: 1}
+  m_LocalPosition: {x: 295.6012, y: 0.7976, z: 0}
+  m_LocalScale: {x: 4.1580048, y: 2.618414, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -867,7 +867,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &1299430820
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -946,7 +946,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &1331270831
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1025,7 +1025,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &1345662614
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1185,7 +1185,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &1594460341
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1264,7 +1264,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: result
 --- !u!222 &1754110009
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1402,10 +1402,10 @@ RectTransform:
   m_Father: {fileID: 618940104}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -529, y: -268.91}
-  m_SizeDelta: {x: 130.877, y: 123.8074}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 140.9656, y: 124.38}
+  m_SizeDelta: {x: 182.6402, y: 190.39}
   m_Pivot: {x: 0.5788979, y: 0.5}
 --- !u!114 &2144001076
 MonoBehaviour:

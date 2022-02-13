@@ -11,7 +11,7 @@ public class lmgg: MonoBehaviour
 
     void Start()
     {
-        levelUnLock = PlayerPrefs.GetInt("levels", 1);
+        /*levelUnLock = PlayerPrefs.GetInt("levels", 1);
 
         for (int i = 0; i < buttons.Length; i++)
         {
@@ -21,7 +21,7 @@ public class lmgg: MonoBehaviour
         for (int i = 0; i < levelUnLock; i++)
         {
             buttons[i].interactable = true;
-        }
+        }*/
     }
 
     public void loadLevel(int levelIndex)

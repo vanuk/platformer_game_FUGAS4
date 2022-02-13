@@ -22,7 +22,7 @@ public class weui : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (howshot == 25)
+        if (howshot == 500)
         {
             StartCoroutine(reserchGun());
         }
@@ -32,7 +32,7 @@ public class weui : MonoBehaviour
     {
         if (Time.time > nextfire)
         {
-            if (howshot < 25)
+            if (howshot < 500)
             {
                 Instantiate(Bullet, shotpos.transform.position, transform.rotation);
                 howshot += 1;

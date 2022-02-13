@@ -16,13 +16,16 @@ public class po : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D col)
     {
-        if (col.gameObject.CompareTag("DeathCollider"))
+        if (currentLife == 0)
         {
-            currentLife--;
-            if (!_checkpointActivated)
-                transform.position = spawn.transform.position;
-            else
-                transform.position = checkpoint.transform.position;
+            if (col.gameObject.CompareTag("DeathCollider"))
+            {
+
+                if (!_checkpointActivated)
+                    transform.position = spawn.transform.position;
+                else
+                    transform.position = checkpoint.transform.position;
+            }
         }
 
         if (col.gameObject.CompareTag("Checkpoint"))
